@@ -22,3 +22,4 @@ Uygulamayı başlatın: streamlit run app/app.py
 
 📄 Dokümantasyon
 Projenin detaylı analiz adımlarına, veri ön işleme süreçlerine ve model performans metriklerine docs/ klasörü altındaki proje raporu ve proje sunumu üzerinden ulaşabilirsiniz.
+<img width="891" height="883" alt="image" src="https://github.com/user-attachments/assets/8ee3186d-879e-4dd7-a61b-6fc6e2331d8b" />
